@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://2iphone.com.cn
+# url: http://2iphone.com.cn
 date_format: "ordinal"
 title: 狼凤皇
 subtitle: "用失传的技艺练就强大的生存实力"
