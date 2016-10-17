@@ -1,11 +1,11 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+# baseurl:
 # url: http://2iphone.com.cn
 date_format: "ordinal"
 title: 狼凤皇
-subtitle: "用失传的技艺练就强大的生存实力"
+subtitle: "用失传的技艺练，就强大的生存实力"
 description: "狼凤皇的个人博客"
 keywords: 狼凤皇, Sunny, fenghuang, Wolf Phoenix
 favicon: /favicon.ico
@@ -80,7 +80,7 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
+github_username: sunnyy
 douban_username: freedim
 facebook_username: mzlogin
 weibo_username: mzlogin
