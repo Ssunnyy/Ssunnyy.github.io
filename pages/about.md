@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 用失传的技艺练，就强大的生存实力
+keywords: Feng huang, 狼凤皇
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是狼凤皇，用失传的技艺练，就强大的生存实力。
 
 仰慕「优雅编码的艺术」。
 
@@ -18,14 +18,7 @@ permalink: /about/
 * 努力改变人生
 
 ## 联系
-
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* 掘金：[@mzlogin](http://gold.xitu.io/user/570ddaeb2e958a005c63b2da)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
-* 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+GitHub：[@Sunnyy](https://github.com/Ssunnyy)
 
 ## Skill Keywords
 
