@@ -15,3 +15,4 @@ permalink: /links/
 * [虾神](http://blog.txx.im/)
 * [破船之家](http://beyondvincent.com/)
 * [NSHipster](http://nshipster.cn/)
+* [Kevin Blog](http://zhowkev.in/)
